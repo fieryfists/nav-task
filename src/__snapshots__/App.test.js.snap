@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu snapshots 1`] = `
+<div
+  className="nav nav-pills"
+  onKeyDown={[Function]}
+  style={
+    Object {
+      "position": "fixed",
+    }
+  }
+>
+  <div
+    className="nav-item dropdown"
+  >
+    <a
+      aria-expanded={false}
+      className="dropdown-toggle nav-link"
+      data-rr-ui-event-key={null}
+      id={0}
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Item0
+    </a>
+  </div>
+  <div
+    className="nav-item dropdown"
+  >
+    <a
+      aria-expanded={false}
+      className="dropdown-toggle nav-link"
+      data-rr-ui-event-key={null}
+      id={1}
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Item1
+    </a>
+  </div>
+  <div
+    className="nav-item dropdown"
+  >
+    <a
+      aria-expanded={false}
+      className="dropdown-toggle nav-link"
+      data-rr-ui-event-key={null}
+      id={2}
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Item2
+    </a>
+  </div>
+  <div
+    className="nav-item"
+  >
+    <a
+      className="nav-link"
+      data-rr-ui-event-key="3"
+      id={3}
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      Item3
+    </a>
+  </div>
+</div>
+`;
